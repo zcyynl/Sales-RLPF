@@ -31,7 +31,7 @@ python src/score_for_reward.py \
   --data_file data/corpus_dataset.parquet \
   --ckpt_dir checkpoints \
   --ckpt_tag tag-ff-80000 \
-  --pretrained_model Qwen/Qwen1.5-1.8B \
+  --pretrained_model Qwen/Qwen2.5-1.5B \
   --out_file data/corpus_dataset_with_reward.parquet
 ```
 

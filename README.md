@@ -1,4 +1,4 @@
-# salesloop-RLPF
+# Salesloop-RLPF
 
 Open-source preparation directory for the SalesLoop RLPF experiment pipeline.
 
